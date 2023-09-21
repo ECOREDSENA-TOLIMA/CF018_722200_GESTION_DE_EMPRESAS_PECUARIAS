@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 Se recapitula el componente formativo: #[b Preparación de raciones para animales], que consiste en el conjunto de alimentos que deben suministrarse a los animales en un periodo de 24 horas; dicha ración depende de la especie animal a la que se va a alimentar, vacuno, cerdos, aves; igualmente, existen diferentes métodos de elaboración, estos dependen de los requerimientos específicos que se deseen cubrir por cada especie. Estos métodos son: cuadro de Pearson simple, cuadro compuesto, método de sustitución, métodos con aplicaciones tecnológicas. De la misma forma, se resalta la importancia del empaque, el rotulado y el almacenamiento de alimentos para animales, los cuales deben cumplir con los requerimientos establecidos por el ICA, con el objetivo de conservar los alimentos de manera inocua, además, se deben tener en cuenta los factores que pueden afectarlos, como factores intrínsecos, entre estos se encuentran la composición del agua, acidez y pH, y potencial de óxido en reducción. De la misma forma se tienen en cuenta factores extrínsecos como temperatura, humedad relativa y composición de la atmósfera
 
     .row.justify-content-center
       .col-lg-10.mb-5
