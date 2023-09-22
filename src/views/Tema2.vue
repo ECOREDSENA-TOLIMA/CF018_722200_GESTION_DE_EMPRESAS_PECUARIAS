@@ -45,24 +45,193 @@
             .col-md-12.mb-4.mb-md-0
               p.text-small.mb-4 Se deben sumar los dos resultados producto de la resta, 23 + 7 = 30. Posteriormente, se toma cada uno de estos 3 datos y se expresa en porcentaje mediante una regla de tres.
             .row.justify-content-center.align-items-center.mb-5
-              .col-md-4.mb-4.mb-md-0
+              .col-md-8.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema2/2.svg', alt='Texto que describa la imagen')
-              .col-md-4.mb-4.mb-md-0
-                p.text-small Se trazan dos flechas, una desde cada uno de los ingredientes hacia el valor buscado, con el fin de poder hacer una resta en el sentido que indiquen las flechas. Los resultados deben ponerse con signo positivo.
-              .col-md-4.mb-4.mb-md-0
-                figure
-                  img(src='@/assets/curso/temas/tema2/3.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/5.svg', alt='Texto que describa la imagen')
 
+          .row.justify-content-center(numero="3" titulo="Paso")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small.mb-4 El cuadro deberá quedar ahora de la siguiente manera: 
+            .row.justify-content-center.align-items-center.mb-5
+              .col-md-8.mb-4.mb-md-0
+                figure
+                  img(src='@/assets/curso/temas/tema2/6.svg', alt='Texto que describa la imagen')
+
+          .row.justify-content-center(numero="4" titulo="Paso")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small.mb-4 Esto indica finalmente que la fórmula de la ración deberá llevar #[b 23,33 % de pasta de soya y 76,67 % de grano (sorgo)]. Esta formulación se puede comprobar y se hace multiplicando los porcentajes obtenidos por el contenido de proteína de cada ingrediente y se finaliza dividiendo el total entre 100:
+            .row.justify-content-center.align-items-center.mb-5
+              .col-md-8.mb-4.mb-md-0
+                figure
+                  img(src='@/assets/curso/temas/tema2/7.svg', alt='Texto que describa la imagen')
+
+          .row.justify-content-center(numero="5" titulo="Paso")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small.mb-4 Al sumar estos 2 resultados #[b 9,333 + 7,667 = 17,0] el resultado es el porcentaje de proteína requerido en la porción al iniciar el ejercicio. En algunos casos, se hace necesario emplear algunos ingredientes fijos. Para este caso, se deberá suponer que a la ración se #[b le debe incluir 3 % de harina de hueso o 4 % de vitaminas y 0,1 % minerales de traza], el total de los ingredientes fijos será de #[b 4 %, por lo que con el 9 % restante se deberá cubrir el 17 % de proteína] necesario en la ración. En este momento, se debe dividir #[b 17 sobre 96], se multiplica el resultado #[b por 100, el resultado es 17.708], lo que indica la cantidad de proteína que se debe aportar con #[b 96 %] de la dieta para compensar el 4 % de los ingredientes fijos que no proporcionan ninguna cantidad de proteína.
+            .row.justify-content-center.align-items-center.mb-5
+              .col-md-8.mb-4.mb-md-0
+                figure
+                  img(src='@/assets/curso/temas/tema2/8.svg', alt='Texto que describa la imagen')
+
+          .row.justify-content-center(numero="6" titulo="Paso")
+            .col-md-12.mb-4.mb-md-0
+              p.text-small.mb-4 Con estos resultados, se indica que finalmente la fórmula debe llevar 71,33 % de sorgo y 24,67 % de pasta de soya; la manera de comprobarlo es multiplicando los valores de la fórmula por los datos de proteína de cada ingrediente de esta.
+            .row.justify-content-center.align-items-center.mb-5
+              .col-md-8.mb-4.mb-md-0
+              .titulo-sexto.color-acento-contenido.offset-2
+                h5 Tabla 1
+                span #[em Información nutricional de proteína]
+
+              .tabla-a.mb-5 
+                table
+                  caption Nota. Tomada de Shimada (2007).
+                  thead.text-white(style="background-color:#1B3F5E")
+                    tr
+                      th Ingrediente
+                      th Fórmula (%)
+                      th Proteína (%)del ingrediente 
+                      th Proteína (%) de la fórmula 
+                  tbody
+                    tr
+                      td #[b Sorgo]
+                      td.text-center 71,33
+                      td.text-center 10
+                      td.text-center 7,14
+                    tr
+                      td #[b Pasta de soya]
+                      td.text-center 24,67
+                      td.text-center 40
+                      td.text-center 9,86
+                    tr
+                      td #[b Fijos]
+                      td.text-center 4,00
+                      td.text-center 0
+                      td.text-center 0,00
+                    tr
+                      td 
+                      td.text-center 100,00
+                      td.text-center 
+                      td.text-center 17,00
       .col-md-3.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/temas/tema2/4.svg', alt='Texto que describa la imagen')
         
-          
-
     h4.titulo-cuarto.mt-5 Cuadro compuesto
+    p.mb-5(data-aos="fade-left") Es necesario reconocer que no siempre se trabaja con 2 ingredientes, por ello, se realizará este ejemplo con 4 ingredientes diferentes.
+
+    TabsA.color-acento-botones.mb-5
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 1")
+        .row.justify-content-center 
+          .col-md-12
+            p Con 4 ingredientes: #[b sorgo (10 % proteína), avena (15 %), gluten (25 %), pasta de soya (45 %)], para formular una dieta con #[b 20 % de proteína]. En este método, lo primero que se debe hacer es listar los ingredientes en orden ascendente o descendente de contenidos proteicos y, en frente, se debe poner el valor proteico buscado.
+          .col-md-8
+            figure
+              img(src='@/assets/curso/temas/tema2/10.svg', alt='Texto que describa la imagen')
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 2")
+        .row.justify-content-center 
+          .col-md-12
+            p Se deberán hacer las restas como en la explicación del método anterior del cuadrado simple:
+          .col-md-8
+            figure
+              img(src='@/assets/curso/temas/tema2/9.svg', alt='Texto que describa la imagen')
+
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 3")
+        .row.justify-content-center 
+          .col-md-12
+            p Se suman los resultados parciales 25 +5 +5 + 10 = 45 y se aplica la regla de tres
+          .col-md-8
+            figure
+              img(src='@/assets/curso/temas/tema2/11.svg', alt='Texto que describa la imagen')
+
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 4")
+        .row.justify-content-center 
+          .col-md-12
+            p Se suman los resultados parciales 25 +5 +5 + 10 = 45 y se aplica la regla de tres
+          .col-md-8
+            figure
+              img(src='@/assets/curso/temas/tema2/12.svg', alt='Texto que describa la imagen')
+
+      .tarjeta.color-primario--borde.p-4(titulo="PASO 5")
+        .row.justify-content-center 
+          .col-md-12
+            p Estos resultados indican que se requiere de sorgo 55,6, gluten y avena 11,1 y soya 22,2 en la dieta a formular; se comprueba multiplicando los valores obtenidos por su contenido de proteína correspondiente y dividido en 100, #[b los resultados son sorgo 5,560, avena 1,665, gluten 2,775 y soya 2,290]; al sumar estos resultados, se tiene como resultado #[b 19,99] que, en otras palabras, es el 20 % requerido al iniciar la formulación.
+    
     h4.titulo-cuarto.mt-5 Método de sustitución
+
+    p.mb-5(data-aos="fade-left") Este método se encarga de definir la cantidad de proteína que se aumenta o disminuye en la fórmula sustituyendo un ingrediente por otro.
+
+    TabsC.color-primario
+      .py-3.py-md-4(titulo="Paso 1")
+        .row.justify-content-center
+          .col-md-12.mb-4.mb-md-0
+            p Para explicarlo, se tomarán los siguientes datos, donde se pretende formular una ración con 15 % de proteína en los ingredientes de sorgo y pasta de soya, a partir de un 9 % y 45 % de proteína, respectivamente. Se debe razonar cada kilogramo de sorgo que sustituya por una cantidad igual de pasta de soya; equivaldrá a una ganancia neta de 360 g de proteína.
+            p 450 g de proteína en 1 kg de pasta de soya
+            p -90 g de proteína en 1 kg de sorgo
+            p 390 diferencia neta
+          .col-md-12
+            figure
+              img(src='@/assets/curso/temas/tema2/13.png', alt='Texto que describa la imagen')
+      
+      .py-3.py-md-4(titulo="Paso 2")
+        .row
+          .col-md-3.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema2/15.jpg', alt='Texto que describa la imagen')
+          .col-md-9
+            p La sustitución de ingredientes se da de la siguiente manera:
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 2
+              span #[em Sustitución de ingredientes]
+            .tabla-a.color-acento-contenido.mb-5 
+              table
+                caption Nota. Tomada de Shimada (2007).
+                thead
+                  tr
+                    th Norma
+                    th Año
+                    th Componente
+                tbody.text-center
+                  tr
+                    td 100,0
+                    td N/A
+                    td 9,00
+                  tr
+                    td 99,0
+                    td 1,00
+                    td 9,36
+                  tr
+                    td 98,00
+                    td 2,00
+                    td 9,72
+                  tr
+                    td 97,00
+                    td 3,00
+                    td 10,08
+                  tr
+                    td 96,00
+                    td 4,00
+                    td 10,44
+                  tr
+                    td 84,00
+                    td 16,00
+                    td 14,76
+                  tr
+                    td 83,33
+                    td 17,00
+                    td 15,00
+                    
+
+      .py-3.py-md-4(titulo="Paso 3")
+        .row.justify-content-center
+          .col-md-12.mb-4.mb-md-0
+            p La fórmula correcta debe contener 83,33 % de sorgo y 16,67 % de pasta de soya, lo que muestra que es igual al resultado del método del cuadrado de Pearson.
+          .col-md-12
+            figure
+              img(src='@/assets/curso/temas/tema2/14.png', alt='Texto que describa la imagen')
+
     h4.titulo-cuarto.mt-5 Métodos con aplicaciones de tecnología
+    
+    p(data-aos="fade-left") Los métodos mencionados anteriormente son útiles para los técnicos que deban #[b formular raciones] con pocos ingredientes, esto se da normalmente en organizaciones pecuarias pequeñas. Cuando se debe emplear un número mayor de raciones, con mayor número de materias primas y nutrientes adicionales, como #[b aminoácidos, vitaminas y minerales], y reducir costos, se recomienda utilizar software y tecnologías diseñadas para esta tarea; estas herramientas son normalmente usadas por empresas que se dedican a la fabricación de alimentos. 
 
 </template>
 
