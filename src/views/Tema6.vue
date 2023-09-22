@@ -102,11 +102,11 @@
     .row.justify-content-center
       .col-md-8.desktop
         figure
-          img(src='@/assets/curso/temas/tema6/9.svg', alt='')
+          img(src='@/assets/curso/temas/tema6/9.svg', alt='En la figura se representa como se ganan o pierden electrones, reducido cuando se gana electrones, y oxidado cuando se pierde electrones.')
     .row.justify-content-center
       .col-md-8.movil
         figure
-          img(src='@/assets/curso/temas/tema6/10.svg', alt='')    
+          img(src='@/assets/curso/temas/tema6/10.svg', alt='En la figura se representa como se ganan o pierden electrones, reducido cuando se gana electrones, y oxidado cuando se pierde electrones.')    
 
     .row.justify-content-center
       .col-md-8
