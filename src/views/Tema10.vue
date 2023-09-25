@@ -14,7 +14,7 @@
         figure
           img(src='@/assets/curso/temas/tema10/1.png', alt='Texto que describa la imagen')
 
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido
       h5 Tabla 4
       span #[em Ejemplo formato control de peso]
 
@@ -69,7 +69,7 @@
                 td
                 td
     
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido
       h5 Tabla 5
       span #[em Ejemplo formato compra de alimentos]
 
@@ -123,7 +123,7 @@
                 td
                 td
                 td
-    .titulo-sexto.color-acento-contenido.offset-1
+    .titulo-sexto.color-acento-contenido
       h5 Tabla 6
       span #[em Ejemplo formato uso y manejo de alimentos]
 

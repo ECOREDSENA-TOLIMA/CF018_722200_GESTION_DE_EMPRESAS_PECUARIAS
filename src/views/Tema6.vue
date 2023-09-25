@@ -39,7 +39,7 @@
     p.mb-5(data-aos="fade-left") El agua es uno de los factores de mayor cuidado en las granjas u organizaciones que se dedican a la producción pecuaria, ya que los #[b micro organismos necesitan de agua para poder crecer]; se hace referencia al término de actividad de agua (Aw), dado que hace referencia a la disponibilidad de agua donde se puede presentar el desarrollo y crecimiento microbiano:
 
     .titulo-sexto.color-acento-contenido.offset-1
-      h5 Figura 3
+      h5 Figura 12
       span #[em Desarrollo y crecimiento microbiano]
     .row.justify-content-center
       .col-md-10.desktop
@@ -68,7 +68,7 @@
     p.mb-5(data-aos="fade-left") Para los alimentos el pH debe medirse con una escala de 0 (muy ácido) a 14,0 (muy alcalino o básico), siendo 7,0 el pH neutro. Por lo general, las bacterias suelen desarrollarse y crecer con un pH neutro o cercano a él, y en su gran mayoría, aquellos alimentos que se consideran favorables a estos agentes tienen el pH entre 4,6 y 7,0. Teniendo en cuenta el concepto anterior, los alimentos se encuentran divididos en dos grupos: poco ácidos, o de baja acidez, y ácidos; la clasificación o definición de estas categorías se da con base en el desarrollo del #[i Clostridium botulinum].
     
     .titulo-sexto.color-acento-contenido.offset-2.mt-5
-      h5 Figura 4
+      h5 Figura 13
       span #[em Escala pH]
 
     .row.justify-content-center
@@ -96,7 +96,7 @@
     p.mb-5(data-aos="fade-left") Existen procesos de oxidación y reducción y estos están relacionados con el intercambio de electrones que existe entre las sustancias químicas. El potencial de óxido-reducción se define como la capacidad que tienen determinados sustratos para ganar o perder electrones. Cuando un elemento pierde un electrón, se denomina oxidado, y cuando, al contrario, lo gana, reducido.
 
     .titulo-sexto.color-acento-contenido.offset-2.mt-5
-      h5 Figura 5
+      h5 Figura 14
       span #[em Oxidación y reducción]
 
     .row.justify-content-center

@@ -32,27 +32,36 @@
             .col-md-12.mb-4.mb-md-0
               p.text-small.mb-4 Se debe formular una ración que propone el 17 % de proteína cruda, para lo que se cuenta con 2 ingredientes: sorgo, que cuenta con 10 %, y pasta de soya, con un 40 %; para saber cuál es la cantidad necesaria de cada uno de los ingredientes en la ración solicitada con él % de proteína definido, se debe seguir este proceso: primero, se traza en el cuadro ubicado en el centro el valor que se busca y en los ángulos de la izquierda, los datos de cada insumo que fueron suministrados.
             .row.justify-content-center.align-items-center.mb-5
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 3
+                span #[em Paso 1]
               .col-md-4.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema2/2.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/2.svg', alt='Se trazan dos ﬂechas, una desde cada uno de los ingredientes hacia el valor buscado,con el ﬁn de poder hacer una resta en el sentido que indiquen las ﬂechas. Los resultados deben ponerse con signo positivo. Pasta de soya 40%, Sorgo 10% y  17% de proteína cruda. Se resta 40 - 17 = 23 y 10-17= 7.')
               .col-md-4.mb-4.mb-md-0
                 p.text-small Se trazan dos flechas, una desde cada uno de los ingredientes hacia el valor buscado, con el fin de poder hacer una resta en el sentido que indiquen las flechas. Los resultados deben ponerse con signo positivo.
               .col-md-4.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema2/3.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/3.svg', alt='Se trazan dos ﬂechas, una desde cada uno de los ingredientes hacia el valor buscado,con el ﬁn de poder hacer una resta en el sentido que indiquen las ﬂechas. Los resultados deben ponerse con signo positivo. Pasta de soya 40%, Sorgo 10% y  17% de proteína cruda. Se resta 40 - 17 = 23 y 10-17= 7.')
 
           .row.justify-content-center(numero="2" titulo="Paso")
             .col-md-12.mb-4.mb-md-0
               p.text-small.mb-4 Se deben sumar los dos resultados producto de la resta, 23 + 7 = 30. Posteriormente, se toma cada uno de estos 3 datos y se expresa en porcentaje mediante una regla de tres.
             .row.justify-content-center.align-items-center.mb-5
               .col-md-8.mb-4.mb-md-0
+                .titulo-sexto.color-acento-contenido
+                  h5 Figura 4
+                  span #[em Paso 2]
                 figure
-                  img(src='@/assets/curso/temas/tema2/5.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/5.svg', alt='La formula es la siguiente: Si 30=100, 7=X Donde X = 100+7/30 = 23,33 y si 30 = 100, 23=Y Y = 100+23/30 = 23,33')
 
           .row.justify-content-center(numero="3" titulo="Paso")
             .col-md-12.mb-4.mb-md-0
               p.text-small.mb-4 El cuadro deberá quedar ahora de la siguiente manera: 
             .row.justify-content-center.align-items-center.mb-5
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 5
+                span #[em Paso 3]
               .col-md-8.mb-4.mb-md-0
                 figure
                   img(src='@/assets/curso/temas/tema2/6.svg', alt='Texto que describa la imagen')
@@ -61,17 +70,23 @@
             .col-md-12.mb-4.mb-md-0
               p.text-small.mb-4 Esto indica finalmente que la fórmula de la ración deberá llevar #[b 23,33 % de pasta de soya y 76,67 % de grano (sorgo)]. Esta formulación se puede comprobar y se hace multiplicando los porcentajes obtenidos por el contenido de proteína de cada ingrediente y se finaliza dividiendo el total entre 100:
             .row.justify-content-center.align-items-center.mb-5
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 6
+                span #[em Paso 4]
               .col-md-8.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema2/7.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/7.svg', alt='Pasta de soya igual a (23,33 por 40) dividido 100 igual a 9,333, Sorgo igual a (76,67 por 10) dividido 100 igual a 7,667')
 
           .row.justify-content-center(numero="5" titulo="Paso")
             .col-md-12.mb-4.mb-md-0
               p.text-small.mb-4 Al sumar estos 2 resultados #[b 9,333 + 7,667 = 17,0] el resultado es el porcentaje de proteína requerido en la porción al iniciar el ejercicio. En algunos casos, se hace necesario emplear algunos ingredientes fijos. Para este caso, se deberá suponer que a la ración se #[b le debe incluir 3 % de harina de hueso o 4 % de vitaminas y 0,1 % minerales de traza], el total de los ingredientes fijos será de #[b 4 %, por lo que con el 9 % restante se deberá cubrir el 17 % de proteína] necesario en la ración. En este momento, se debe dividir #[b 17 sobre 96], se multiplica el resultado #[b por 100, el resultado es 17.708], lo que indica la cantidad de proteína que se debe aportar con #[b 96 %] de la dieta para compensar el 4 % de los ingredientes fijos que no proporcionan ninguna cantidad de proteína.
             .row.justify-content-center.align-items-center.mb-5
+              .titulo-sexto.color-acento-contenido
+                h5 Figura 7
+                span #[em Paso 5]
               .col-md-8.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema2/8.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/8.svg', alt='Se tiene 40 17.708, igualmente se tiene 10 a 17.708, luego 17.708 a 7,708 y 17.708 a 22,292 sobre 30. Luego se tiene Pasta de soya igual a 96 por 7,708 sobre 30, es igual a 24,67 Para Sorgo igual a 96 por 22,292 sobre 30, es igual a 71,33.')
 
           .row.justify-content-center(numero="6" titulo="Paso")
             .col-md-12.mb-4.mb-md-0
@@ -125,31 +140,43 @@
           .col-md-12
             p Con 4 ingredientes: #[b sorgo (10 % proteína), avena (15 %), gluten (25 %), pasta de soya (45 %)], para formular una dieta con #[b 20 % de proteína]. En este método, lo primero que se debe hacer es listar los ingredientes en orden ascendente o descendente de contenidos proteicos y, en frente, se debe poner el valor proteico buscado.
           .col-md-8
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 8
+              span #[em Paso 1]
             figure
-              img(src='@/assets/curso/temas/tema2/10.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/10.svg', alt='Sorgo igual a 10, avena igual a 15, luego se tiene 20, gluten 25 y soya 45')
       .tarjeta.color-primario--borde.p-4(titulo="PASO 2")
         .row.justify-content-center 
           .col-md-12
             p Se deberán hacer las restas como en la explicación del método anterior del cuadrado simple:
           .col-md-8
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 9
+              span #[em Paso 2]
             figure
-              img(src='@/assets/curso/temas/tema2/9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/9.svg', alt='Se tiene que 10, 15 apuntan a 20, igualmente 25, 45 apuntan a 20, luego de 20 sale 25 y 5, posteriormente sale de 20 a 5 y 10.')
 
       .tarjeta.color-primario--borde.p-4(titulo="PASO 3")
         .row.justify-content-center 
           .col-md-12
             p Se suman los resultados parciales 25 +5 +5 + 10 = 45 y se aplica la regla de tres
           .col-md-8
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 10
+              span #[em Paso 3]
             figure
-              img(src='@/assets/curso/temas/tema2/11.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/11.svg', alt='Se tiene que 100 por 10 sobre 45 es igual a 22,2. También se tiene que 100 por 5 sobre 45 es igual a 11,1. Posteriormente se tiene que 100 por 25 sobre 45 es igual a 55,6.')
 
       .tarjeta.color-primario--borde.p-4(titulo="PASO 4")
         .row.justify-content-center 
           .col-md-12
             p Se suman los resultados parciales 25 +5 +5 + 10 = 45 y se aplica la regla de tres
           .col-md-8
+            .titulo-sexto.color-acento-contenido
+              h5 Figura 11
+              span #[em Paso 4]
             figure
-              img(src='@/assets/curso/temas/tema2/12.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/12.svg', alt='Se tiene que sorgo 10, avena 15 a 20, da como resultado 25 igual a 55,6 %, y 5 igual a 11,1 %. También se tiene que gluten 25, soya 45 a 20 se tiene 5 igual a 11,1 %, y 10 igual a 22,2 %.')
 
       .tarjeta.color-primario--borde.p-4(titulo="PASO 5")
         .row.justify-content-center 

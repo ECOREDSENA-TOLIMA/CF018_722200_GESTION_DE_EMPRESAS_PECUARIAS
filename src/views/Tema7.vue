@@ -108,14 +108,17 @@
     h4.titulo-cuarto.mt-5 Molido
     p.mb-5(data-aos="fade-left") Se conoce como un método físico cuya finalidad es reducir el tamaño de la materia prima (granos) para aumentar la superficie de ataque de las enzimas digestivas; estos procesos se realizan en molinos diseñados para ello; existen dos tipos de molinos:
     
+    .titulo-sexto.color-acento-contenido.offset-1.mt-5
+      h5 Figura 15
+      span #[em Molido para reducir tamaño de materia prima]
     .row.justify-content-center
       .col-md-10.desktop
         figure
-          img(src='@/assets/curso/temas/tema7/8.svg', alt='')
+          img(src='@/assets/curso/temas/tema7/8.svg', alt='En la figura se tiene que los rodillos son menos utilizados, como también que los martillos son comúnmente más usados, el tipo de molido con el cual será procesada la materia prima se define dependiendo de la especie animal que va a ingerir el alimento.')
     .row.justify-content-center
       .col-md-10.movil
         figure
-          img(src='@/assets/curso/temas/tema7/9.svg', alt='')
+          img(src='@/assets/curso/temas/tema7/9.svg', alt='En la figura se tiene que los rodillos son menos utilizados, como también que los martillos son comúnmente más usados, el tipo de molido con el cual será procesada la materia prima se define dependiendo de la especie animal que va a ingerir el alimento.')
 
     .row.justify-content-center.mt-5
       .col-10
@@ -201,15 +204,18 @@
               br
     p.mb-5(data-aos="fade-left") Entre las materias primas destacan:
 
+    .titulo-sexto.color-acento-contenido.mt-5
+      h5 Figura 16
+      span #[em Materias primas]
     .row.desktop
       .col-md-12
         figure
-          img(src='@/assets/curso/temas/tema7/17.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema7/17.svg', alt='Oleaginosas, soya, lupino, poroto, garbanzo, maíz, arroz, sorgo, grasas animales y por ultimo aceites vegetales y marinos.')
 
     .row.movil
       .col-md-12
         figure
-          img(src='@/assets/curso/temas/tema7/18.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema7/18.svg', alt='Oleaginosas, soya, lupino, poroto, garbanzo, maíz, arroz, sorgo, grasas animales y por ultimo aceites vegetales y marinos.')
 
     .row 
       p.mb-5(data-aos="fade-left") Este método de elaboración tiene características específicas, a continuación, se listarán:
