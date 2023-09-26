@@ -13,9 +13,7 @@
     .row
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/Jn0SiBNs5yI?si=JeHXlVa-P-vUpQMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      
-    
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/bqowLqfRA3M?si=29ubaB9AkVtus1nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>

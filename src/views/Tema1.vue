@@ -174,9 +174,6 @@
       figure(data-aos="flip-up")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/Jn0SiBNs5yI?si=YNxBV-WVL85p6LPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-              
-
-      
 </template>
 
 <script>
