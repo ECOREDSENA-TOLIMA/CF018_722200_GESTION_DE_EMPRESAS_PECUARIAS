@@ -23,7 +23,10 @@
     .titulo-segundo.color-acento-contenido
       h2#t_8_1 8.1  Métodos toma de muestras
 
-    p(data-aos="fade-left") Para que los métodos de la toma de muestras alcancen los resultados esperados, es ideal seleccionar una cantidad representativa del producto y trabajar con el método que más se adecúe a lo que se está buscando.  Existen 2 métodos de muestra reconocidos, que son los siguientes:
+    p.mb-5(data-aos="fade-left") Para que los métodos de la toma de muestras alcancen los resultados esperados, es ideal seleccionar una cantidad representativa del producto y trabajar con el método que más se adecúe a lo que se está buscando.  Existen 2 métodos de muestra reconocidos, que son los siguientes:
+
+    h4.titulo-cuarto.mt-5 a. Toma de muestra selectiva
+      p.mt-5(data-aos="fade-left") Generalmente, la toma que se debe realizar de manera apropiada de una muestra que sea representativa de un determinado lote de alimentos debe hacerse de una manera que no se vea influenciada por el inspector o aquella persona que ha sido asignada para realizar la toma de la muestra.
     .row.justify-content-center 
       .col-md-10.p-4
         .cajon.p-4.mb-3(style="background-color:#DBF9BD")

@@ -193,7 +193,20 @@
                 td
                 td
                 td
-      
+    .row.justify-content-center
+      .col-md-10
+        .tarjeta.p-3.mb-5(style="background-color:#1B3F5E")
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema8/2.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p.text-bold.text-white Para complementar el componente formativo se invita a ver el siguiente vídeo:
+                .col-sm-auto
+                  a.boton.color-secundario(:href="link_1_1" target="_blank")
+                    span Ver vídeo
+                    i.fas.fa-file-video
 </template>
 
 <script>
@@ -202,6 +215,7 @@ export default {
   components: {},
   data: () => ({
     // variables de vue
+    link_1_1: 'https://youtu.be/Ef-Dy1V3whw?si=Gnzchbj9sTYJA11',
   }),
   mounted() {
     this.$nextTick(() => {

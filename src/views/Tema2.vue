@@ -64,7 +64,7 @@
                 span #[em Paso 3]
               .col-md-8.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema2/6.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/6.svg', alt='Pasta de soya igual a 40, se tiene 7 igual a 23,33 %, para sorgo igual 10, se tiene 23 igual a 76,67 %, para un total del 100%')
 
           .row.justify-content-center(numero="4" titulo="Paso")
             .col-md-12.mb-4.mb-md-0

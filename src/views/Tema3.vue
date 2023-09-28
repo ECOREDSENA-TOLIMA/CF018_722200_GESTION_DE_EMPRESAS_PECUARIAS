@@ -108,7 +108,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/4.svg', alt='')
 
-    p.mb-5.mt-5.text-center #[b 3. Composición garantizada. En caso de que el tipo de producto no contenga los nutrientes de la lista]
+    p.mb-5.mt-5 #[b 3. Composición garantizada. En caso de que el tipo de producto no contenga los nutrientes de la lista]
 
     .row.justify-content-center
       .col-md-10

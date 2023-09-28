@@ -162,6 +162,11 @@ export default {
       },
       {
         icono: 'fas fa-download',
+        titulo: 'Descargar PDF',
+        download: 'downloadsCFA_18_722200.zip',
+      },
+      {
+        icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
       },

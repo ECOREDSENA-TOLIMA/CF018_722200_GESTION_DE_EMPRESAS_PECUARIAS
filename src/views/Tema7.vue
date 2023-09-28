@@ -179,7 +179,7 @@
               .col-7.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema7/15.svg', alt='Texto que describa la imagen')
-              p.text-white En esta cámara, se les trata con vapor húmedo, obteniendo una harina húmeda y caliente, la que a su vez es pasada a presión por un dado con muchos orificios dándole forma de churritos, los cuales son cortados, según el tamaño deseado, por una navaja, obteniendo así finalmente el pellet.
+              p.text-white En esta cámara, se les trata con vapor húmedo, obteniendo una harina húmeda y caliente, la que a su vez es pasada a presión por un dado con muchos orificios dándole forma de churritos, los cuales son cortados, según el tamaño deseado, por una navaja, obteniendo así finalmente el #[i pellet].
 
     .row.justify-content-center 
       p.mb-3(data-aos="fade-left") Este método tiene un alto costo de producción, pero tiene la ventaja de obtener un producto denso, homogéneo (evitando que el animal discrimine el alimento), y el hecho de aplicar calor en el proceso, en cierto grado, mejora la digestión. Para obtener un buen rendimiento y calidad de #[i pellet], se recomiendan recipientes de proceso pequeños, que permitan llevar a cabo un mejor seguimiento en la elaboración de estos y uno para el agregado de medicamentos.

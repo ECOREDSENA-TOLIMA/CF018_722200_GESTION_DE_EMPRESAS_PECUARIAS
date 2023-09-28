@@ -57,7 +57,7 @@
               span #[em Sistema digestivo]
             figure
               img(src='@/assets/curso/temas/tema1/4.png', alt='En la figura se representa la fisiología digestiva y la manera como se regula su funcionamiento.')
-          .row.justify-content-center
+          .row
             .col-md-6 
               p Los insumos que se utilizan con mayor frecuencia son los siguientes:
           .row.justify-content-center
