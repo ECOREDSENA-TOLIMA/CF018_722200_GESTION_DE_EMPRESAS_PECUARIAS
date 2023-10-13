@@ -91,7 +91,7 @@ export default {
           },
           {
             numero: '7.2',
-            titulo: 'Método',
+            titulo: 'Métodos',
             hash: 't_7_2',
           },
         ],
@@ -163,7 +163,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloadsCFA_18_722200.zip',
+        download: 'downloads/CFA_18_722200.zip',
       },
       {
         icono: 'fas fa-download',

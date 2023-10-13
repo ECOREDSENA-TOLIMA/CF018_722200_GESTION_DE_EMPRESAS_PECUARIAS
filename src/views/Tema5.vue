@@ -16,7 +16,7 @@
               .col-3.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema5/1.svg', alt='Texto que describa la imagen')
-              h5 Articulo 35
+              h5 Artículo 35
               p La inspección, vigilancia y control se da para garantizar la inocuidad de los alimentos para animales, se debe aplicar vigilancia y control a los actores de la cadena y se debe enfocar el trabajo en la mitigación y prevención de riesgos sanitarios.
 
           .col-md.tarjeta.color-acento-contenido.p-5

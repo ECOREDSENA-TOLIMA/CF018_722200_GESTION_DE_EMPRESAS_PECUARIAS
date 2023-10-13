@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la figura de la Síntesis, se resalta el conjunto de alimentos que deben suministrarse a los animales en un periodo de 24 horas; dependiendo de la especie animal a la que se va a alimentar, vacuno, cerdos, aves; igualmente, existen diferentes métodos de elaboración: cuadro de Pearson simple, cuadro compuesto, método de sustitución, métodos con aplicaciones tecnológicas. De la misma forma, se resalta la importancia del empaque, el rotulado y el almacenamiento de alimentos, de la misma forma se tienen en cuenta factores extrínsecos como temperatura, humedad relativa y composición de la atmósfera.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

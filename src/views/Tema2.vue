@@ -37,12 +37,12 @@
                 span #[em Paso 1]
               .col-md-4.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema2/2.svg', alt='Se trazan dos ﬂechas, una desde cada uno de los ingredientes hacia el valor buscado,con el ﬁn de poder hacer una resta en el sentido que indiquen las ﬂechas. Los resultados deben ponerse con signo positivo. Pasta de soya 40%, Sorgo 10% y  17% de proteína cruda. Se resta 40 - 17 = 23 y 10-17= 7.')
+                  img(src='@/assets/curso/temas/tema2/2.svg', alt='Pasta de soya 40%, Sorgo 10% y  17% de proteína cruda.')
               .col-md-4.mb-4.mb-md-0
                 p.text-small Se trazan dos flechas, una desde cada uno de los ingredientes hacia el valor buscado, con el fin de poder hacer una resta en el sentido que indiquen las flechas. Los resultados deben ponerse con signo positivo.
               .col-md-4.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/temas/tema2/3.svg', alt='Se trazan dos ﬂechas, una desde cada uno de los ingredientes hacia el valor buscado,con el ﬁn de poder hacer una resta en el sentido que indiquen las ﬂechas. Los resultados deben ponerse con signo positivo. Pasta de soya 40%, Sorgo 10% y  17% de proteína cruda. Se resta 40 - 17 = 23 y 10-17= 7.')
+                  img(src='@/assets/curso/temas/tema2/3.svg', alt='Se resta 40 - 17 = 23 y 10-17= 7.')
 
           .row.justify-content-center(numero="2" titulo="Paso")
             .col-md-12.mb-4.mb-md-0
@@ -197,13 +197,13 @@
             p 390 diferencia neta
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema2/13.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/13.png', alt='imagen decorativa')
       
       .py-3.py-md-4(titulo="Paso 2")
-        .row
-          .col-md-3.mb-4.mb-md-0
+        .row.justify-content-center.align-items-center
+          //- .col-md-3.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema2/15.jpg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/15.jpg', alt='imagen decorativa')
           .col-md-9
             p La sustitución de ingredientes se da de la siguiente manera:
             .titulo-sexto.color-acento-contenido
@@ -254,7 +254,7 @@
             p La fórmula correcta debe contener 83,33 % de sorgo y 16,67 % de pasta de soya, lo que muestra que es igual al resultado del método del cuadrado de Pearson.
           .col-md-12
             figure
-              img(src='@/assets/curso/temas/tema2/14.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/14.png', alt='imagen decorativa')
 
     h4.titulo-cuarto.mt-5 Métodos con aplicaciones de tecnología
     

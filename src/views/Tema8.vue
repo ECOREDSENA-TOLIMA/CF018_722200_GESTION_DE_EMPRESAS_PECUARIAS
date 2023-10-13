@@ -31,10 +31,10 @@
       .col-md-10.p-4
         .cajon.p-4.mb-3(style="background-color:#DBF9BD")
           .row.justify-content-center.align-items-center
-            .col-md-3
+            .col-sm-2.mb-3
               figure
                 img(src='@/assets/curso/temas/tema8/2.svg', alt='')
-            .col-md-9
+            .col-sm-9
               p Cuando el muestreo se debe realizar por incumplimiento de la normativa legal, no se hace necesario seleccionar una muestra que sea en su totalidad representativa, ya que el interés del encargado de la muestra o del inspector es poder tener la probabilidad más alta de encontrar los productos defectuosos. Los procedimientos de toma de muestras selectiva son normalmente utilizados para poder tener mayores posibilidades de encontrar aquellos productos defectuosos o que no están cumpliendo las normas.
 
       .row.justify-content-center

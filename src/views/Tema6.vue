@@ -36,7 +36,7 @@
     p.mb-3(data-aos="fade-left") Se refieren a las propiedades físicas y a la composición química del propio alimento: actividad de agua, pH, nutrientes, potencial de oxidación y estructura del producto alimentario.
 
     h5 <li type="disc">Actividad del agua</li>
-    p.mb-5(data-aos="fade-left") El agua es uno de los factores de mayor cuidado en las granjas u organizaciones que se dedican a la producción pecuaria, ya que los #[b micro organismos necesitan de agua para poder crecer]; se hace referencia al término de actividad de agua (Aw), dado que hace referencia a la disponibilidad de agua donde se puede presentar el desarrollo y crecimiento microbiano:
+    p.mb-5(data-aos="fade-left") El agua es uno de los factores de mayor cuidado en las granjas u organizaciones que se dedican a la producción pecuaria, ya que los #[b microorganismos necesitan de agua para poder crecer]; se hace referencia al término de actividad de agua (Aw), dado que hace referencia a la disponibilidad de agua donde se puede presentar el desarrollo y crecimiento microbiano:
 
     .titulo-sexto.color-acento-contenido.offset-1
       h5 Figura 12
@@ -146,7 +146,7 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              p El factor que hace parte del ambiente y que tiene mayor impacto en el desarrollo y crecimiento de microorganismos es la temperatura. Es importante aclarar que los microorganismos existentes pueden reproducirse en diferentes temperaturas, desde -8° a +90°C (17,6 a 194 °F), sin embargo, la temperatura en la que normalmente más se desarrollan es 35 °C (95 °F).
+              p El factor que hace parte del ambiente y que tiene mayor impacto en el desarrollo y crecimiento de microorganismos es la temperatura. Es importante aclarar que los microorganismos existentes pueden reproducirse en diferentes temperaturas, desde -8° a +90 °C (17,6 a 194 °F), sin embargo, la temperatura en la que normalmente más se desarrollan es 35 °C (95 °F).
           
             .col-md-6
               figure
@@ -167,7 +167,7 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              p Adicionalmente, a parte de la temperatura óptima, se debe tener en cuenta que existen temperaturas límites, las cuales están directamente relacionadas con el desarrollo de microorganismos. Cuando se presenta temperatura límite, el desarrollo de microorganismos es mucho menor y se tiene un requerimiento de tiempo mayor para que la población bacteriana pueda llegar a tener un mismo número de células viables totales, que solo se puede lograr cuando están expuestas a una temperatura óptima.
+              p Adicionalmente, aparte de la temperatura óptima, se debe tener en cuenta que existen temperaturas límites, las cuales están directamente relacionadas con el desarrollo de microorganismos. Cuando se presenta temperatura límite, el desarrollo de microorganismos es mucho menor y se tiene un requerimiento de tiempo mayor para que la población bacteriana pueda llegar a tener un mismo número de células viables totales, que solo se puede lograr cuando están expuestas a una temperatura óptima.
           
             .col-md-6
               figure
@@ -270,7 +270,7 @@
                 img(src='@/assets/curso/temas/tema6/22.png', alt='')
             .col-md-9
               p Normalmente, estos microorganismos patogénicos se generan en la misma fuente que los indicadores (ej.: la materia fecal es una fuente potencial de Salmonella spp.), la detección de E. Coli alerta sobre la presencia inminente de un grave peligro para la salud.
-              p Los microorganismos indicadores deben ser de detección rápida y fácil; se deben distinguir fácilmente de la microbiota natural de alimentos y del agua; provenir del mismo origen y procedencia que el organismo patogénico; contar con unas características que generan multiplicación y también su muerte similar al micro organismo patogénico para el mismo tipo de alimento; y estar ausente o en cantidad mínima en el alimento cuando el patógeno esté ausente, pero no es una condición que esté dada en cualquier circunstancia, no siempre se encuentran dadas todas estas condiciones nombradas. 
+              p Los microorganismos indicadores deben ser de detección rápida y fácil; se deben distinguir fácilmente de la microbiota natural de alimentos y del agua; provenir del mismo origen y procedencia que el organismo patogénico; contar con unas características que generan multiplicación y también su muerte similar al microorganismo patogénico para el mismo tipo de alimento; y estar ausente o en cantidad mínima en el alimento cuando el patógeno esté ausente, pero no es una condición que esté dada en cualquier circunstancia, no siempre se encuentran dadas todas estas condiciones nombradas. 
               
 
 </template>

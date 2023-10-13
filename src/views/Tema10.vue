@@ -14,14 +14,14 @@
         figure
           img(src='@/assets/curso/temas/tema10/1.png', alt='Texto que describa la imagen')
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido.mt-5
       h5 Tabla 4
       span #[em Ejemplo formato control de peso]
 
-    .row.justify-content-center 
-      .col 
-        .tabla-a.mb-5 
-          table
+    .row.justify-content-center.mb-5
+      .col-lg
+        .tabla-a.clstabla.mb-5
+          table 
             thead.text-white(style="background-color:#1B3F5E")
               tr
                 th N°
@@ -29,53 +29,34 @@
                 th N° Registro
                 th Tendencia racial
                 th Peso en kg
-                th N°
-                th Fecha
-                th N° Registro
-                th Tendencia racial
-                th Peso en kg
             tbody
               tr
-                th 1 
+                td.text-center #[b 1] 
                 td 
                 td 
-                td
-                td
-                td
-                td
-                td
                 td
                 td
               tr
-                th 2 
+                td.text-center #[b 2] 
                 td 
                 td 
-                td
-                td
-                td
-                td
-                td
                 td
                 td
               tr
-                th 3 
+                td.text-center #[b 3] 
                 td 
                 td 
                 td
                 td
-                td
-                td
-                td
-                td
-                td
+
     
     .titulo-sexto.color-acento-contenido
       h5 Tabla 5
       span #[em Ejemplo formato compra de alimentos]
 
     .row.justify-content-center 
-      .col 
-        .tabla-a.mb-5 
+      .col-lg
+        .tabla-a.clstabla.mb-5 
           table
             thead.text-white(style="background-color:#1B3F5E")
               tr
@@ -129,9 +110,9 @@
 
     .row.justify-content-center 
       .col 
-        .tabla-a.mb-5 
+        .tabla-a.clstabla.mb-5 
           table
-            thead.text-white(style="background-color:#1B3F5E")
+            thead.text-white(style="background-color:#1B3F5E; word-wrap: break-word")
               tr
                 th N° de Registro
                 th Tipo de animal
@@ -144,7 +125,7 @@
                 th Mayo
             tbody
               tr
-                th 1 
+                th 
                 td 
                 td 
                 td
@@ -154,7 +135,7 @@
                 td.text-center.text-bold N° días
                 td.text-center.text-bold N° días
               tr
-                th 2 
+                th 1 
                 td 
                 td 
                 td
@@ -163,6 +144,16 @@
                 td 
                 td 
                 td 
+              tr
+                th 2 
+                td 
+                td 
+                td
+                td
+                td
+                td
+                td
+                td
               tr
                 th 3 
                 td 
@@ -174,7 +165,7 @@
                 td
                 td
               tr
-                th 4 
+                th 4  
                 td 
                 td 
                 td
@@ -184,7 +175,7 @@
                 td
                 td
               tr
-                th 5  
+                th 5
                 td 
                 td 
                 td

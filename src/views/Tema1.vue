@@ -95,7 +95,7 @@
             p Los métodos de formulación deben combinar todos los factores, para poder balancear de manera #[b científica, económica y productiva la ración]. El avance y desarrollo de las tecnologías en el ámbito de la formulación de raciones han aportado grandes beneficios en los cálculos y rapidez de estos. 
           .col-md-6.mb-5
             figure
-              img(src='@/assets/curso/temas/tema1/8.jpg', alt='En la figura se representa la fisiología digestiva y la manera como se regula su funcionamiento.')
+              img(src='@/assets/curso/temas/tema1/8.jpg', alt='Imagen decorativa')
 
         .row.justify-content-center.align-items-center(titulo="Formulación de raciones para aves")
           .col-md-6.mb-4.mb-md-0
@@ -133,28 +133,28 @@
       .tarjeta.color.p-4(style="background-color:#E3E7DF")(data-aos="flip-up")
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/12.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/12.svg' alt='Imagen decorativa')
         h4.text-center SISTEMA DIGESTIVO
         p Garantiza que el alimento pueda llegar al interior del cuerpo, ingiriéndolo, digiriéndolo y absorbiéndolo.
 
       .tarjeta.color.p-4(style="background-color:#E3E7DF")(data-aos="flip-up")
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/13.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/13.svg' alt='Imagen decorativa')
         h4.text-center SISTEMA CIRCULATORIO
         p Este aparato se encarga de que los nutrientes requeridos sean absorbidos por el estómago y el aparato digestivo, en general, de que puedan llegar hasta la sangre; esta función se hace a través de la sangre, transportando los nutrientes y desechando lo que no se necesite.
 
       .tarjeta.color.p-4(style="background-color:#E3E7DF")(data-aos="flip-up")
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/14.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/14.svg' alt='Imagen decorativa')
         h4.text-center SISTEMA RESPIRATORIO
         p Se encarga de tomar el oxígeno que necesita el cuerpo y de expulsar el C02 que el cuerpo no necesita.
 
       .tarjeta.color.p-4(style="background-color:#E3E7DF")(data-aos="flip-up")
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/15.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/15.svg' alt='Imagen decorativa')
         h4.text-center SISTEMA EXCRETOR
         p Es el último aparato en entrar en función, elimina los desechos que el cuerpo no requiere y son el resultado del proceso de nutrición; elimina las sustancias tóxicas del cuerpo.
     
@@ -168,7 +168,7 @@
         p El médico veterinario debe velar por la salud de los animales y evitar posibles enfermedades transmitidas por la alimentación, teniendo en cuenta que existe un consumidor final de leche, huevos o carne, y puede ver afectada su salud por la mala manipulación que se le dé a estos. 
       .col-md-6
         figure
-          img(src='@/assets/curso/temas/tema1/16.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/16.png', alt='Imagen decorativa')
 
     .row.mt-5
       figure(data-aos="flip-up")

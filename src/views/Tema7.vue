@@ -102,7 +102,7 @@
                 
     separador
     .titulo-segundo.color-acento-contenido
-      h2#t_7_1 7.2  Método
+      h2#t_7_1 7.2  Métodos
     p.mb-5(data-aos="fade-left") Los métodos comunes para la elaboración de alimentación para animales son los siguientes: molido, peletizado y extruido. A continuación, se realizará un acercamiento en la definición de cada método:
 
     h4.titulo-cuarto.mt-5 Molido

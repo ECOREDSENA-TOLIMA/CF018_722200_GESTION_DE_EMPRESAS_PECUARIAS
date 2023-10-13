@@ -10,7 +10,8 @@
     p.mb-5(data-aos="fade-left") Artículo 19. Almacenamiento. Se deben seguir las siguientes indicaciones: 
 
     .row.justify-content-center   
-      SlyderB.mb-5(:datos="datosSlyder")
+      .col-lg
+        SlyderB.mb-5(:datos="datosSlyder")
       
 </template>
 
