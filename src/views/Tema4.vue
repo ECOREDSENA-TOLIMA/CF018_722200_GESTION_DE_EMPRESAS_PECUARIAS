@@ -9,8 +9,8 @@
     p.mb-3(data-aos="fade-left") Según la Resolución 061252 del 3 de febrero de 2020, se deben cumplir las siguientes disposiciones para el almacenamiento.
     p.mb-5(data-aos="fade-left") Artículo 19. Almacenamiento. Se deben seguir las siguientes indicaciones: 
 
-    .row.justify-content-center   
-      .col-lg
+    .row.justify-content-center
+      .col
         SlyderB.mb-5(:datos="datosSlyder")
       
 </template>

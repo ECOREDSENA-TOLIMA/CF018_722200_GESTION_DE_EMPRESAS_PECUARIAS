@@ -129,29 +129,29 @@
     p.mb-3(data-aos="fade-left") La nutrición animal se encarga de la alimentación de los animales, garantizando que esta tenga los nutrientes necesarios para alimentarse y sobrevivir. Ahora bien, los organismos de todos los animales no se comportan de la misma manera, por ello tiene como objetivo identificar las necesidades nutricionales específicas de cada grupo de animales y poder aprovechar al máximo las capacidades productivas y reproductivas de cada uno de estos.
     p.mb-5(data-aos="fade-left") Dentro de las funciones de la nutrición animal y la formulación de raciones, se deben cubrir las necesidades y nutrientes básicos que necesitan los animales: #[b proteínas, minerales, vitaminas y agua]; de la misma manera, la nutrición animal debe garantizar el funcionamiento adecuado de los cuatro aparatos que hacen parte de los animales, estos son:
 
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color.p-4(style="background-color:#E3E7DF")(data-aos="flip-up")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="flip-up")
+      .tarjeta.p-4.col-ipad(style="background-color:#E3E7DF")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/12.svg' alt='Imagen decorativa')
         h4.text-center SISTEMA DIGESTIVO
         p Garantiza que el alimento pueda llegar al interior del cuerpo, ingiriéndolo, digiriéndolo y absorbiéndolo.
 
-      .tarjeta.color.p-4(style="background-color:#E3E7DF")(data-aos="flip-up")
+      .tarjeta.color.p-4.col-ipad(style="background-color:#E3E7DF")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/13.svg' alt='Imagen decorativa')
         h4.text-center SISTEMA CIRCULATORIO
         p Este aparato se encarga de que los nutrientes requeridos sean absorbidos por el estómago y el aparato digestivo, en general, de que puedan llegar hasta la sangre; esta función se hace a través de la sangre, transportando los nutrientes y desechando lo que no se necesite.
 
-      .tarjeta.color.p-4(style="background-color:#E3E7DF")(data-aos="flip-up")
+      .tarjeta.color.p-4.col-ipad(style="background-color:#E3E7DF")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/14.svg' alt='Imagen decorativa')
         h4.text-center SISTEMA RESPIRATORIO
         p Se encarga de tomar el oxígeno que necesita el cuerpo y de expulsar el C02 que el cuerpo no necesita.
 
-      .tarjeta.color.p-4(style="background-color:#E3E7DF")(data-aos="flip-up")
+      .tarjeta.color.p-4.col-ipad(style="background-color:#E3E7DF")
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/15.svg' alt='Imagen decorativa')
