@@ -31,7 +31,7 @@
       .col-md-10.p-4
         .cajon.p-4.mb-3(style="background-color:#DBF9BD")
           .row.justify-content-center.align-items-center
-            .col-sm-2.mb-3
+            .col-lg-2.col-md-2.mb-3.col-6
               figure
                 img(src='@/assets/curso/temas/tema8/2.svg', alt='')
             .col-sm-9
